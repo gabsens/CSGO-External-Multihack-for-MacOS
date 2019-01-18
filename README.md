@@ -6,7 +6,7 @@ All the work is mine except for BSP parsing that I pasted from [A5-'s CSGO-Exter
 
 Features include:
 
-- A clean base for reading/writting process memory
+- A clean base for reading/writing process memory
 - No flash
 - Glow (wallhack)
 - Trigger for selected weapons
