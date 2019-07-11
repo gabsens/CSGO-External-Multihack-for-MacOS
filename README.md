@@ -15,7 +15,7 @@ Features include:
 - No recoil
 - Aimbot
 
-This project has been abandonned since September 2016. Do not expect anything to still work today.
+This project has been abandoned since September 2016. Do not expect anything to still work today.
 
 # Special thanks go to:
 - *iseekwonderful* for his major contribution to the MacOS cheating scene
